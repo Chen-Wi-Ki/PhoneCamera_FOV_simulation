@@ -26,6 +26,9 @@ public class Camera1ViewSwitchEvent : MonoBehaviour
             case (3):
                 _camera.rect = new Rect(new Vector2(0.75f, 0), new Vector2(0.25f, 0.5925f));
                 break;
+            case (4):
+                _camera.rect = new Rect(new Vector2(0, 0), new Vector2(0, 0));
+                break;
 
         }
     }

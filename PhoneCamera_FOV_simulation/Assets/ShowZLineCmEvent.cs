@@ -12,8 +12,8 @@ public class ShowZLineCmEvent : MonoBehaviour
     {
         _lineRenderer = GetComponent<LineRenderer>();
         _lineRenderer.positionCount = 2; // 兩個點之間的線條
-        _lineRenderer.startWidth = 0.05f; // 線條起始寬度
-        _lineRenderer.endWidth = 0.05f; // 線條結束寬度
+        _lineRenderer.startWidth = 0.03f; // 線條起始寬度
+        _lineRenderer.endWidth = 0.03f; // 線條結束寬度
     }
 
     // Update is called once per frame
@@ -23,5 +23,6 @@ public class ShowZLineCmEvent : MonoBehaviour
         _lineRenderer.SetPosition(0, transform.position);
         _lineRenderer.SetPosition(1, Target.position);
         ShowText.text = "" + Z_sum + " cm";
+
     }
 }
