@@ -1,21 +1,27 @@
-MIT License
+拒996許可證
+本開源內容版權所有(c) 2024 陳威齊
 
-Copyright (c) 2024 陳威齊
+特此授予任何個人或法人實體許可取得本授權作品的副本（包括原始碼、文件和/或相關項目，以下統稱為作為'許可作品'），免費，處理許可為任何目的工作，包括但不限於使用權，複製、修改、準備衍生作品、分發、出版並對許可作品進行再許可，但須符合以下條件：
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. 個人或法人必須顯著地展示，未經修改，本許可證和每個重新分發的通知或授權作品的衍生副本。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. 個人或法人必須嚴格遵守所有司法管轄區適用的法律、法規、規則和標準與個人身體狀況不佳的勞動和就業有關位於或個人出生或歸化的地點； 或在哪裡法人實體已註冊或正在運作（以較嚴格者為準）。在司法管轄區無此類法律、法規、規章和
+標準或其法律、法規、規章和標準無法強制執行，個人或法人實體必須遵守核心國際勞工標準。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. 個人或法人不得誘導、建議或強迫其僱員，不論是全職或兼職，或其獨立的承包商以任何方式以口頭或書面同意直接或間接限制、削弱或放棄他或她此類法律、法規、規則和標準規定的權利或補救措施與上述勞動和就業有關的，無論是否此類書面或口頭協議可根據所在國的法律強制執行上述司法管轄區，該個人或法人實體亦不得以任何方式限制其僱員或獨立人士的權利
+承包商向版權所有者報告或投訴，或有關當局監控許可證的遵守情況其違反上述許可。
+
+許可作品「按原樣」提供，不提供任何形式的保證，明示或暗示的保證，包括但不限於適銷性、特定用途的適用性和非侵權。在任何情況下，版權所有者均不對任何索賠負責，損害或其他責任，無論是合約、侵權或否則，由許可作品或許可作品的使用或其他交易引起、產生或以任何方式與之相關。
+
+"Anti 996" License
+Copyright (c) 2024 Chen-Wi-Ki
+
+Permission is hereby granted to any individual or legal entity obtaining a copy of this licensed work (including the source code, documentation and/or related items, hereinafter collectively referred to as the "licensed work"), free of charge, to deal with the licensed work for any purpose, including without limitation, the rights to use, reproduce, modify, prepare derivative works of, distribute, publish and sublicense the licensed work, subject to the following conditions:
+
+1. The individual or the legal entity must conspicuously display, without modification, this License and the notice on each redistributed or derivative copy of the Licensed Work.
+
+2. The individual or the legal entity must strictly comply with all applicable laws, regulations, rules and standards of the jurisdiction relating to labor and employment where the individual is physically located or where the individual was born or naturalized; or where the legal entity is registered or is operating (whichever is stricter). In case that the jurisdiction has no such laws, regulations, rules and standards or its laws, regulations, rules and standards are unenforceable, the individual or the legal entity are required to comply with Core International Labor Standards.
+
+3. The individual or the legal entity shall not induce, suggest or force its employee(s), whether full-time or part-time, or its independent contractor(s), in any methods, to agree in oral or written form, to directly or indirectly restrict, weaken or relinquish his or her rights or remedies under such laws, regulations, rules and standards relating to labor and employment as mentioned above, no matter whether such written or oral agreements are enforceable under the laws of the said jurisdiction, nor shall such individual or the legal entity limit, in any methods, the rights of its employee(s) or independent contractor(s) from reporting or complaining to the copyright holder or relevant authorities monitoring the compliance of the license about its violation(s) of the said license.
+
+THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN ANY WAY CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.
