@@ -337,6 +337,7 @@
 "Assets/CameraViewField.cs"
 "Assets/Canera1FoVCtrl.cs"
 "Assets/GPTTest.cs"
+"Assets/GridPlaneCtrl.cs"
 "Assets/HumanZPosCtrl.cs"
 "Assets/Model/Akishaqs/Characters/_CommonFiles/_DemoStuff/Scripts/Customizations.cs"
 "Assets/Model/Akishaqs/Characters/_CommonFiles/_DemoStuff/Scripts/DragToRotate.cs"
@@ -346,6 +347,7 @@
 "Assets/PhoneYPosCtrl.cs"
 "Assets/ShowYLineCmEvent.cs"
 "Assets/ShowZLineCmEvent.cs"
+"Assets/WSADCtrl.cs"
 -langversion:9.0
 
 /deterministic
